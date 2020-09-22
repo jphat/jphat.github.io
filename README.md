@@ -1,2 +1,2 @@
 # jphat.github.io
-it is personal, and it is all business
+it is personal. it is business.
