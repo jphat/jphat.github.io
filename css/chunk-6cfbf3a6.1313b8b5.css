@@ -1,0 +1,1 @@
+.gallery{display:grid;grid-gap:1rem;grid-template-columns:repeat(auto-fill,minmax(20rem,1fr));margin:5rem auto;max-width:80rem;padding:0 5rem}.gallery-panel img{height:22vw;-o-object-fit:cover;object-fit:cover;width:100%}
